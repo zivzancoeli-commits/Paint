@@ -12,6 +12,6 @@
 - Undo buttons
 
 ## How to try it
-1. Open
+1. Open https://zivzancoeli-commits.github.io/Paint/
 2. Select a color or tool
 3. Make art
